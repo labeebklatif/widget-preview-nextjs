@@ -6,9 +6,9 @@ export default function Home() {
     <div className={styles.container}>
       <main className={styles.main}>
         <h1 className={styles.title}>
-          This is HOME PAGE
+          This is AWAY PAGE
           <br />
-          Go <Link href="/away">AWAY</Link>
+          Go <Link href="/">HOME</Link>
         </h1>
       </main>
     </div>
